@@ -1,0 +1,17 @@
+body 
+{
+    background-color: darkgray;
+}
+
+h1 
+{
+    cursor:default;
+    background: -webkit-linear-gradient(#2629ff, #7811ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#testBtn
+{
+    cursor:pointer;
+}
